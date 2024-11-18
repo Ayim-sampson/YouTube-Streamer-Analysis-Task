@@ -1,13 +1,15 @@
 # YouTube-Streamer-Analysis
 This project involved analyzing YouTube streamer data to extract valuable insights about their performance metrics, audience distribution, and trends in content categories. It provides insights into YouTube streamer performance by analyzing key metrics like subscribers, views, likes, and comments. 
 
-#YouTube Streamer Analysis
+## YouTube Streamer Analysis
 This project analyzes YouTube streamer performance metrics to derive insights into audience preferences, regional trends, and content categories.
 
-Key Insights
+## Key Insights
+
 Popular categories: "Música y baile," "Videojuegos."
 High-performing creators include MrBeast and CoComelon.
-How to Reproduce
-Clone the repository.
-Open analysis.ipynb in Jupyter Notebook.
-Run the cells to replicate the analysis.
+
+## How to Reproduce
+1. Clone the repository.
+2. Open analysis.ipynb in Jupyter Notebook.
+3. Run the cells to replicate the analysis.
